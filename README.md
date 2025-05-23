@@ -20,10 +20,6 @@ To get certified, a student must solve a 24 hours hands-on exam in a fully patch
 
 The 24 hour hands-on exam consists of 5 target servers in addition to a foothold student machine. The goal is to OS level command execution on all 5 targets.
 
-### Does the Certified Red Team Professional (CRTP) certificate expire? <a href="#viewer-f56kk" id="viewer-f56kk"></a>
-
-Yes, the CRTP certificate has a validity of 3 years to keep up with changing technologies and skill requirements. You can renew the certificate without any additional costs. You can find the renewal process here - https://www.alteredsecurity.com/post/renewal-process-for-altered-security-certifications
-
 ### Does Attacking and Defending Active Directory or CRTP labs use updated Windows version? <a href="#viewer-9cjc7" id="viewer-9cjc7"></a>
 
 Yes! The CRTP labs are updated to Server 2022. The lab mimics a real world enterprise environment and the users need to rely on misconfigurations and feature abuse to challenge the lab.
