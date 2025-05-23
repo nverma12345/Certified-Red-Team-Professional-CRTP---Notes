@@ -1,56 +1,46 @@
----
-description: AS - Certified Red Team Professional (CRTP) - Notes
----
+# 🛣️ RoadMap / Exam Preparation
 
-# 📝 Certified Red Team Professional (CRTP) - Notes
+## Main Concepts
 
-<div align="left"><figure><img src=".gitbook/assets/image (5) (1) (1) (1).png" alt="" width="207"><figcaption><p><a href="https://www.alteredsecurity.com/post/certified-red-team-professional-crtp">https://www.alteredsecurity.com/post/certified-red-team-professional-crtp</a></p></figcaption></figure></div>
+<figure><img src=".gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.alteredsecurity.com/post/certified-red-team-professional-crtp" %}
+Here below the **path** I used and which I would recommend to reach a level necessary to pass the exam. 👇
 
-{% hint style="info" %}
-All contributions to the project to improve it, add new contributions, correct it and update it are welcome.
-{% endhint %}
+### Background Information
 
-## What is Certified Red Team Professional? <a href="#viewer-d2lek" id="viewer-d2lek"></a>
+* Windows Fundamentals Module 🏠 [THM Room](https://tryhackme.com/module/windows-fundamentals)
+* Intro To Offensive Security 🏠 [THM Room](https://tryhackme.com/room/introtooffensivesecurity)
+* Pentesting Fundamentals 🏠 [THM Room](https://tryhackme.com/room/pentestingfundamentals)
+* eJPTv2 Ine Full Course 🗒️ [eJPTv2 Notes](https://app.gitbook.com/o/s2H3MdEB0Qp2IbE58Gxw/s/PNcjhcAuvH4mlZKYrNu3/)
 
-Altered Security's Certified Red Team Professional (**CRTP**) is a beginner friendly hands-on **red team** certification. It is one of the most popular beginner Red Team certification.
+### Concepts and Pratice
 
-A certification holder has the skills to understand and assess security of an E**nterprise Active Directory** environment.
+* Post Exploitation Basics 🏠 [THM Room](https://tryhackme.com/room/postexploit)
+* Sudo Security Bypass 🏠 [THM Room](https://tryhackme.com/room/sudovulnsbypass)
+* Windows Privilege Escalation 🗒️ [Hackersploit Article](https://hackersploit.org/windows-privilege-escalation-fundamentals/)
+* Windows Privesc Arena 🏠 [THM Room](https://tryhackme.com/room/windowsprivescarena)
+* Windows Privesc 🏠 [THM Room](https://tryhackme.com/room/windows10privesc)
+* Bypass UAC 🏠 [THM Room](https://tryhackme.com/room/bypassinguac)
+* Post-Exploitation Basics 🏠 [THM Room](https://tryhackme.com/r/room/postexploit)
+* Active Directory Basics 🏠 [THM Room](https://tryhackme.com/r/room/winadbasics) - [Walkthrough ITA](https://www.youtube.com/watch?v=WEXpcDg25QM\&feature=youtu.be) 🇮🇹
+* Enumerating Active Directory 🏠 [THM Room](https://tryhackme.com/r/room/adenumeration)
+* VulnNet: Active 🏠 [THM Room](https://tryhackme.com/r/room/vulnnetactive)
+* Active Directory Hardening 🏠 [THM Room](https://tryhackme.com/r/room/activedirectoryhardening)
+* Compromising Active Directory🏠 [THM Room](https://tryhackme.com/module/hacking-active-directory)
+* Blue 🚩 [THM CTF](https://tryhackme.com/room/blue) 🟢 - [My Writeup](https://app.gitbook.com/s/rRWtuMw6xkkeDjZfkcWC/thm/eternal-blue)
+* Active 🚩 HTB CTF 🟢 - My Writeup
+* Return 🚩 HTB CTF 🟢 - My Writeup
+* Sauna 🚩 HTB CTF 🟢 - My Writeup
+* Forest 🚩 HTB CTF 🟢 - My Writeup
+* Cascade 🚩 HTB CTF 🟠 - My Writeup
+* Intelligence 🚩 HTB CTF 🟠 - My Writeup
+* Monteverde 🚩 HTB CTF 🟠 - My Writeup
+* Resolute 🚩 HTB CTF 🟠 - My Writeup
+* Blackfield 🚩 HTB CTF 🔴 - My Writeup
+* Mantis 🚩 HTB CTF 🔴 - My Writeup
+* Search 🚩 HTB CTF 🔴 - My Writeup
 
-### What are the requirements for CRTP certification? <a href="#viewer-esim4" id="viewer-esim4"></a>
-
-To get certified, a student must solve a 24 hours hands-on exam in a fully patched Enterprise Active Directory environment containing multiple domains and forests. Like the course, the certification challenges a student to compromise the exam environment using feature abuse and functionalities.
-
-### What is the goal of the CRTP exam? <a href="#viewer-lgmk" id="viewer-lgmk"></a>
-
-The 24 hour hands-on exam consists of 5 target servers in addition to a foothold student machine. The goal is to OS level command execution on all 5 targets.
-
-### Who owns the Certified Red Team Professional (CRTP)? <a href="#viewer-2he9v" id="viewer-2he9v"></a>
-
-Altered Security owns the courses, labs and certification name. We used to offer this in partnership with Pentester Academy. However, the reseller contract ended on 15th January 2023.
-
-### Does the Certified Red Team Professional (CRTP) certificate expire? <a href="#viewer-f56kk" id="viewer-f56kk"></a>
-
-Yes, the CRTP certificate has a validity of 3 years to keep up with changing technologies and skill requirements. You can renew the certificate without any additional costs. You can find the renewal process here - https://www.alteredsecurity.com/post/renewal-process-for-altered-security-certifications
-
-### Does Attacking and Defending Active Directory or CRTP labs use updated Windows version? <a href="#viewer-9cjc7" id="viewer-9cjc7"></a>
-
-Yes! The CRTP labs are updated to Server 2022. The lab mimics a real world enterprise environment and the users need to rely on misconfigurations and feature abuse to challenge the lab.
-
-<figure><img src="https://static.wixstatic.com/media/628794_3744024c76874b21808fcc3765e6f663~mv2.png/v1/fill/w_740,h_329,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/628794_3744024c76874b21808fcc3765e6f663~mv2.png" alt="CRTP Lab"><figcaption><p>CRTP Lab</p></figcaption></figure>
-
-## What will you Learn?
-
-The Attacking and Defending Active Directory Lab enables you to:
-
-* Practice various attacks in a fully patched realistic Windows environment with Server 2022 and SQL Server 2017 machine.
-* Multiple domains and forests to understand and practice cross trust attacks.
-* Learn and understand concepts of well-known Windows and Active Directory attacks.
-* Learn to use Windows as an attack platform and using trusted features of the OS like .NET, PowerShell and others for attacks.
-* Bypassing defenses like Windows Defender, Microsoft Defender for Endpoint (MDE) and Microsoft Defender for Identity (MDI).
-
-## Course duration & Topics ⏳📚 <a href="#course-duration-and-topics" id="course-duration-and-topics"></a>
+## Learning Course Topics
 
 23 Learning Objectives, 59 Tasks, > _120 Hours of Torture_
 
@@ -137,23 +127,27 @@ The Attacking and Defending Active Directory Lab enables you to:
 * Deploy computer objects and Group objects to deceive an adversary.
 * Learn how adversaries can identify decoy objects and how defenders can avoid the detection.
 
-🛣️ [**RoadMap / Exam Preparation**](roadmap-exam-preparation.md) 🧑🏻‍🏫
+### Video Resources
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+* [Windows Privilege Escalation - Video EN](https://www.youtube.com/watch?v=n382EGuJP8Y\&list=PLJnLaWkc9xRh8hmNFWyzWMFgAHo8Lgr93) 🇬🇧 🎦
+* [OSCP Guide 10/12 – Active Directory - Video EN](https://www.youtube.com/watch?v=26M3POQ_51A\&list=PLJnLaWkc9xRgOyupMhNiVFfgvxseWDH5x\&index=10) 🇬🇧 🎦
+* [The Cyber Mentor (TCM) - Hacking Active Directory for Beginners - Video EN](https://www.youtube.com/watch?v=VXxH4n684HE) 🇬🇧 🎦
+* [The Cyber Mentor (TCM) - Windows Privilege Escalation for Beginners - Video EN](https://www.youtube.com/watch?v=uTcrbNBcoxQ) 🇬🇧 🎦
+* [Cisco and Pentester Academy Attacking Active Directory Class with Nikhil Mittal - Video EN](https://www.youtube.com/watch?v=1fiZbYhEkYA) 🇬🇧 🎦
+* [Active Directory - John Hammond Series - Video EN](https://www.youtube.com/watch?v=pKtDQtsubio\&list=PL1H1sBF1VAKVoU6Q2u7BBGPsnkn-rajlp) 🇬🇧 🎦
+* [Active Directory THM Room Walkthrough - Esadecimale - Video ITA](https://youtu.be/WEXpcDg25QM?si=XFA4hFbvwxyLSae7) 🇮🇹 🎦
+
+{% embed url="https://viperone.gitbook.io/pentest-everything/everything/everything-active-directory" %}
 
 ## Training and Labs
 
-The best way to take good practice is using this lab (1st lab required more resources than 2nd)
+If you active the basic subscription you'll have 30 days of lab access with modules for each main topic called **Learning Objects**, [here my walkthrough](readme/lab/).
+
+While, if you want to go in depth, the best way is to practice is using **GOAD** lab environment (1st lab required more resources than 2nd)
 
 {% embed url="https://github.com/Orange-Cyberdefense/GOAD/tree/main" %}
 
-or more better create an own homemade lab, following this [guide](https://dev-angelist.gitbook.io/building-a-vulnerable-active-directory-lab): [https://dev-angelist.gitbook.io/building-a-vulnerable-active-directory-lab](https://dev-angelist.gitbook.io/building-a-vulnerable-active-directory-lab)
-
-### Exam Voucher <a href="#ejpt-exam" id="ejpt-exam"></a>
-
-During Black Friday (November) and Summer certification vendor give sale on these certifications, you can follow latest prices at this link to evaluate or schedule time of buying.
-
-{% embed url="https://github.com/dev-angelist/InfoSec-Black-Friday" %}
+or more better create an own **homemade** lab, following this [guide](https://dev-angelist.gitbook.io/building-a-vulnerable-active-directory-lab): [https://dev-angelist.gitbook.io/building-a-vulnerable-active-directory-lab](https://dev-angelist.gitbook.io/building-a-vulnerable-active-directory-lab)
 
 ### Altered Security Resources <a href="#ejpt-exam" id="ejpt-exam"></a>
 
@@ -161,8 +155,14 @@ During Black Friday (November) and Summer certification vendor give sale on thes
 
 {% embed url="https://www.alteredsecurity.com/trainings" %}
 
-## Resources 📑📘
+### [**Reporting**](https://github.com/sidneysimas/eCPPTv2-PTP-Notes/blob/main/readme/metasploit-and-ruby-1)
 
-### 👉[ RoadMap / Exam Preparation for CRTP](roadmap-exam-preparation.md) 🛣️
+* 🗒️[How to write a PT Report — My Notes](https://dev-angelist.gitbook.io/eccptv2-ptp-notes/readme/metasploit-and-ruby-1/7.1)
+* ⏩ [Writing a PT Report — TCM](https://www.youtube.com/watch?v=EOoBAq6z4Zk\&t=102s)
+* ⏩ [ITProTV Report](https://www.youtube.com/watch?v=NEz4SfjjwvU\&list=WL\&index=11)
+* ⏩ [OSCP — How to Take Effective Notes](https://www.youtube.com/watch?v=yYmDQY1zKKE)
+* ⏩ [OSCP — How to Write a Report](https://www.youtube.com/watch?v=Ohm0LhFFwVA)
 
-### 👉[ CRTP Cheat Sheet ](crtp-cheat-sheet.md)📔
+### CheatSheet <a href="#user-content-e940" id="user-content-e940"></a>
+
+* 🗒️[ CRTP - CheatSheet](crtp-cheat-sheet.md)
