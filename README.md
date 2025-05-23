@@ -1,16 +1,10 @@
 ---
-description: AS - Certified Red Team Professional (CRTP) - Notes
+icon: hand-wave
 ---
 
 # 📝 Certified Red Team Professional (CRTP) - Notes
 
-<div align="left"><figure><img src=".gitbook/assets/image (5) (1) (1) (1).png" alt="" width="207"><figcaption><p><a href="https://www.alteredsecurity.com/post/certified-red-team-professional-crtp">https://www.alteredsecurity.com/post/certified-red-team-professional-crtp</a></p></figcaption></figure></div>
-
-{% embed url="https://www.alteredsecurity.com/post/certified-red-team-professional-crtp" %}
-
-{% hint style="info" %}
-All contributions to the project to improve it, add new contributions, correct it and update it are welcome.
-{% endhint %}
+<div align="left"><figure><img src=".gitbook/assets/image%20(5)%20(1)%20(1)%20(1).png" alt="" width="207"><figcaption></figcaption></figure></div>
 
 ## What is Certified Red Team Professional? <a href="#viewer-d2lek" id="viewer-d2lek"></a>
 
@@ -25,10 +19,6 @@ To get certified, a student must solve a 24 hours hands-on exam in a fully patch
 ### What is the goal of the CRTP exam? <a href="#viewer-lgmk" id="viewer-lgmk"></a>
 
 The 24 hour hands-on exam consists of 5 target servers in addition to a foothold student machine. The goal is to OS level command execution on all 5 targets.
-
-### Who owns the Certified Red Team Professional (CRTP)? <a href="#viewer-2he9v" id="viewer-2he9v"></a>
-
-Altered Security owns the courses, labs and certification name. We used to offer this in partnership with Pentester Academy. However, the reseller contract ended on 15th January 2023.
 
 ### Does the Certified Red Team Professional (CRTP) certificate expire? <a href="#viewer-f56kk" id="viewer-f56kk"></a>
 
@@ -104,7 +94,7 @@ The Attacking and Defending Active Directory Lab enables you to:
 * Execute intra-forest trust attacks to access resources across forest.
 * Abuse SQL Server database links to achieve code execution across forest by just using the databases.
 
-**8 - Abusing AD CS**&#x20;
+**8 - Abusing AD CS**
 
 * Learn about Active Directory Certificate Services and execute some of the most popular attacks.
 * Execute attacks across Domain trusts to escalate privileges to Enterprise Admins.
@@ -139,27 +129,13 @@ The Attacking and Defending Active Directory Lab enables you to:
 
 🛣️ [**RoadMap / Exam Preparation**](roadmap-exam-preparation.md) 🧑🏻‍🏫
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
 ## Training and Labs
 
 The best way to take good practice is using this lab (1st lab required more resources than 2nd)
 
 {% embed url="https://github.com/Orange-Cyberdefense/GOAD/tree/main" %}
-
-or more better create an own homemade lab, following this [guide](https://dev-angelist.gitbook.io/building-a-vulnerable-active-directory-lab): [https://dev-angelist.gitbook.io/building-a-vulnerable-active-directory-lab](https://dev-angelist.gitbook.io/building-a-vulnerable-active-directory-lab)
-
-### Exam Voucher <a href="#ejpt-exam" id="ejpt-exam"></a>
-
-During Black Friday (November) and Summer certification vendor give sale on these certifications, you can follow latest prices at this link to evaluate or schedule time of buying.
-
-{% embed url="https://github.com/dev-angelist/InfoSec-Black-Friday" %}
-
-### Altered Security Resources <a href="#ejpt-exam" id="ejpt-exam"></a>
-
-{% embed url="https://www.alteredsecurity.com/adlab" %}
-
-{% embed url="https://www.alteredsecurity.com/trainings" %}
 
 ## Resources 📑📘
 
